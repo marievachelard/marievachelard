@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Marie 👋
 
-<!--
-**marievachelard/marievachelard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Manager in Data.  
+I build reliable data systems — and kind, curious teams.
 
-Here are some ideas to get you started:
+I believe rigor is what makes data trustworthy,  
+and curiosity is what keeps it alive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I care about
+- Rigor — in code, docs, and the way we work
+- Data that serves a real business need
+- Understanding the “why” before the “how”
+- Curiosity beyond our own stack
+- Questioning decisions as the world evolves
+
+## How I work
+- Data is here to help people make better decisions
+- Context first, solutions second
+- Simple, maintainable systems over clever ones
+- Serious about impact, never about ego
+
+## Tools I work with
+`SQL` · `Python` · `dbt` · `Grafana` · any data visualization tools
+
+## Outside of work
+Running in nature, watercolor painting, music, and traveling 🌿  
+I do maths — but I’m human first.
