@@ -1,28 +1,17 @@
-# Hi, I'm Marie 👋
+### Hey there, I'm Marie, Engineering Manager Data @Pictarine.
 
-Engineering Manager in Data.  
-I build reliable data systems — and kind, curious teams.
+I like data that people trust
+and teams that stay curious.
 
-I believe rigor is what makes data trustworthy,  
-and curiosity is what keeps it alive.
+Rigor.
+Curiosity.
+Critical thinking.
 
-## ✧ What I care about
-◦ Rigor — in code, docs, and the way we work  
-◦ Data that serves a real business need  
-◦ Understanding the “why” before the “how”  
-◦ Curiosity beyond our own stack  
-◦ Questioning decisions as the world evolves  
+Context → solutions.
+Simple > clever.
 
-## ❖ How I work
-◦ Data is here to help people make better decisions  
-◦ Context first, solutions second  
-◦ Simple, maintainable systems over clever ones  
-◦ Serious about impact, never about ego  
+`SQL` · `Python` · `dbt` · `Grafana` · any data viz tool
 
-## ✦ Tools I work with
-`SQL` · `Python` · `dbt` · `Grafana` · data visualization tools
-
-## ✿ Outside of work
-Running in nature, watercolor painting, music, and traveling 🌿  
+Nature. Running. Watercolor. Music. Travel 🌿  
 
 _I do maths — but I’m human first._
