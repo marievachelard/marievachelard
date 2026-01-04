@@ -22,4 +22,4 @@ Rigor · Curiosity · Critical thinking
 ![Grafana](https://img.shields.io/badge/Grafana-f7a217?logo=grafana&logoColor=white)
 
 ### 🧘‍♀️ Beyond the screen
-Nature. Running. Watercolor. Music. Travel
+Nature · Running · Watercolor · Music · Travel
